@@ -4,6 +4,10 @@ body{
     
 }
 
+p{
+    text-align: left;
+}
+
 #principal{
     width: 900px;
   
@@ -19,6 +23,27 @@ body{
 #conteudo{
     background: #e8e8d9;
     padding:  10px;
+}
+
+h1{
+    font-size: 1.2em; /*em está proporcional ao body*/
+    color: #828271;
+}
+
+.img_campanha{
+    border: 12px solid #c3c3ae;
+}
+
+.contato_cliente{
+    width: 400px;
+    
+}
+
+.recado_cliente{
+    width: 400px;
+    
+    
+    
 }
 
 a{
