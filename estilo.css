@@ -41,10 +41,9 @@ h1{
 
 .recado_cliente{
     width: 400px;
-    
-    
-    
+        
 }
+
 
 a{
     color: #4b566a;
@@ -54,6 +53,7 @@ a{
 }
 
 #rodape{
+    margin-top: 5px;
     text-align: center;
     color: #4b566a;
     font-weight: bold;
