@@ -52,8 +52,9 @@ a{
     padding: 5px;
 }
 
+
 a:hover{
-   color: #516892; 
+   color: #475e88; /*stule para mudar quando o cursor passar sobre o link*/
 }
 
 #rodape{
