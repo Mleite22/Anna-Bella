@@ -54,7 +54,13 @@ a{
 
 
 a:hover{
-   color: #475e88; /*stule para mudar quando o cursor passar sobre o link*/
+   color: #d2d2c1; /*stule para mudar quando o cursor passar sobre o link*/
+}
+
+footer{
+    width: 900px;
+    height: 60px;
+    
 }
 
 #rodape{
@@ -62,4 +68,11 @@ a:hover{
     text-align: center;
     color: #4b566a;
     font-weight: bold;
+}
+
+#criacao{
+    margin-top: 0px;
+    text-align: center;
+    color: #4b566a;
+    font-weight: bold; 
 }
