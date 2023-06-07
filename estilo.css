@@ -23,6 +23,7 @@ p{
 #conteudo{
     background: #e8e8d9;
     padding:  10px;
+    
 }
 
 h1{
@@ -41,8 +42,13 @@ h1{
 
 .recado_cliente{
     width: 400px;
+    
+    
         
 }
+
+
+
 
 
 a{
