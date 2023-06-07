@@ -43,19 +43,17 @@ h1{
 .recado_cliente{
     width: 400px;
     
-    
-        
 }
-
-
-
-
 
 a{
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
     padding: 5px;
+}
+
+a:hover{
+   color: #516892; 
 }
 
 #rodape{
